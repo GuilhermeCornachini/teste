@@ -1,0 +1,4 @@
+outs:
+- md5: 4f7ab95160b9f72d95d1770cc0b97bf1
+  size: 18
+  path: aaa.txt
